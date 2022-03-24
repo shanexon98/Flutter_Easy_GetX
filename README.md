@@ -166,12 +166,3 @@ SwitchListTile(
   ThemeData get theme => isDark ? ThemeData.dark() : ThemeData.light();
   void changeTheme(bool val) => storage.write('darkmode', val);
 ```
-
-## Help
-
-If you need any help regarding this 
-```
-tasnuva.oshin12@gmail.com
-```
-
-Thanks
